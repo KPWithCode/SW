@@ -7,4 +7,5 @@ require (
 	github.com/joho/godotenv v1.5.1 // indirect
 	github.com/nedpals/postgrest-go v0.1.3 // indirect
 	github.com/nedpals/supabase-go v0.4.0 // indirect
+	github.com/sashabaranov/go-openai v1.23.0
 )
